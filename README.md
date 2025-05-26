@@ -22,6 +22,6 @@ The model helps us uncover driving behavior patterns with applications in: Drive
 
 ## Results  
 
-Best Model: LSTM with tuned learning rate, trained for 40 epochs
+**Best Model:** LSTM with tuned learning rate, trained for 40 epochs
 Accuracy improved consistently with epochs as expected. 
 LSTM outperformed baseline RNN in classification accuracy. Model captured temporal-spatial driver patterns effectively without overfitting. 
