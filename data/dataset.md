@@ -11,7 +11,7 @@
 | 0     | 114.12072  | 22.543716 | 2016-07-02 00:09:01 | 0      |
 
 This is how the data looks like. In the data/ folder, each .csv file is trajectories for 5 drivers on the same day. Each trajectory step is detailed with features such as longitude, latitude, time, and status. 
-Data can be found at this Google Drive link - https://drive.google.com/file/d/1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT/view 
+Data can be found at [Google Drive](https://drive.google.com/file/d/1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT/view)  
 
 ## Feature Description
 - Plate: Plate means the taxi's plate. In this project, we change them to 0~5 to keep anonymity. The same plate means the same driver, so this is the target label for the classification.  
