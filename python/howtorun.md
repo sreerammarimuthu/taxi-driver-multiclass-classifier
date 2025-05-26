@@ -1,4 +1,4 @@
 Follow the below instructions to run the .py files:   
 
-- **training model:** $ python main.py train
-- **testing model:** $ python main.py test  
+- **For training model:** run - $ python main.py train
+- **For testing model:** run - $ python main.py test  
