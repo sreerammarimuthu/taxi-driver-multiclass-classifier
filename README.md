@@ -18,7 +18,7 @@ The model helps us uncover driving behavior patterns with applications in: Drive
 - `train.py` - Full training + validation loop with checkpointing and metrics
 - `test.py` - Evaluation script to test the model on new data
 - `main.py` - Integrated entry point for training or testing
-- `howtorun.md` - Example run commands 
+- `howtorun.md` - Run commands 
 
 ## Results  
 
